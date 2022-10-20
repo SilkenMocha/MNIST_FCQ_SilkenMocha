@@ -1,0 +1,6 @@
+0 Primera generación
+1 Segunda generación
+2 Tercera generación
+3 Cuarta generación
+4 5ta generación
+5 6ta generación
