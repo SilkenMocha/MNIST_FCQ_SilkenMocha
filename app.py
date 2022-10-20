@@ -6,4 +6,4 @@ st.sidebar.image("http://fcq.uach.mx/images/notas/IQ/IQ.jpg")
 
 boton = st.button("Globos")
 if boton:
-  st.balloons():
+  st.balloons()
